@@ -1,5 +1,5 @@
 <?php
-
+Sanaya pahat
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
