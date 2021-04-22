@@ -2,7 +2,7 @@
 include('codelibrary/inc/main-include.inc.php');
 include('codelibrary/inc/session-check.inc.php');
 include('codelibrary/inc/region-check.inc.php');
-
+//Rashid Pahat
 if($_POST["txtAction"]=="")
 {
 	unset($_SESSION["poOrder"]);
